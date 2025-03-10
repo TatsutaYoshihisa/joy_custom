@@ -1,0 +1,13 @@
+axis_linear: 1
+axis_angular: 3
+button_changer: 10
+
+forward_maxvel: 0.5
+forward_minvel: 0.1
+back_maxvel: 0.5
+back_minvel: 0.1
+rotate_maxvel: 0.5
+rotate_minvel: 0.1
+
+linear_scale: 0.3
+angular_scale: 0.3
